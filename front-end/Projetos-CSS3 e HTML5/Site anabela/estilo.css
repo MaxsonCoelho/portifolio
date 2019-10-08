@@ -1,0 +1,43 @@
+body {
+    background: #d2d2c1 url('imagens/fundo1.png');
+    font: 16px Arial, Helvetica, Sans-serif;
+}
+
+#principal {
+    width: 900px;
+    height: 500px;
+}
+
+#menu {
+    background: #c5c5b2;
+    padding: 18px;
+}
+
+#conteudo {
+    background: white;
+    font-family: 'Times New Roman', Times, serif;
+    padding: 15px;
+}
+
+a {
+    color: #4b566a;
+    text-decoration: none;
+    font-weight: bold;
+    padding: 5px;
+}
+
+#centralizar {
+    text-align: center;
+    font-size: 10px;
+}
+
+h1 {
+    color: #828271;
+    font-size: 1.2em;
+}
+
+.img-campanhas {
+    border: 10px solid gray;
+    width: 600px;
+   
+}
