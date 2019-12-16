@@ -1,0 +1,33 @@
+form {
+    width: 230px;
+    height: 400px;
+}
+
+fieldset {
+    color: rgb(0, 0, 138);
+    inline-size: auto;
+}
+
+label {
+    color: crimson;
+}
+
+textarea {
+    width: block;
+    height: 20px;
+}
+
+input {
+    margin: 5px;
+}
+
+table {
+    margin: 10px;
+    border: 1px solid black;
+    background: rgb(184, 182, 182);
+}
+
+table tr td {
+    border: 1px solid black;
+    background: burlywood;
+}
